@@ -1,0 +1,4 @@
+To run the project run these commands in terminal
+1. cd backend
+2. mvn spring-boot:run
+3. http://localhost:8080/index.html

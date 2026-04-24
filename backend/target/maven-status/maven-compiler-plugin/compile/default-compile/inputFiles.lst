@@ -1,0 +1,12 @@
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\controller\ContactController.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\service\ReminderService.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\model\Reminder.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\repository\ContactRepository.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\SmartContactApplication.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\repository\InteractionRepository.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\model\Interaction.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\service\ContactService.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\model\Contact.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\repository\ReminderRepository.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\exception\GlobalExceptionHandler.java
+D:\Git\smartcontactmanager\backend\src\main\java\com\smartcontact\controller\ReminderController.java
